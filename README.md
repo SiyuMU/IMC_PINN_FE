@@ -1,6 +1,6 @@
 # IMC-PINN-FE: A Physics-Informed Neural Network for Patient-Specific Left Ventricular Finite Element Modeling with Image Motion Consistency and Biomechanical Parameter Estimation
 
-paper has been submitted to Computer Methods in Applied Mechanics and Engineering
+Further details will be provided upon publication.
 
 
 ## Project Structure
