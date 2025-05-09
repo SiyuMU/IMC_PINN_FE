@@ -1,0 +1,14 @@
+name: IMC_PINN_FE
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch
+  - numpy
+  - vtk
+  - tqdm
+  - pip
+  - pip:
+    - deepxde 
